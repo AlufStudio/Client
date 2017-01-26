@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Delivery Order</string>
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="log">login</string>
+    <string name="reg">Sign Up</string>
+    <string name="title_activity_client">Client</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
